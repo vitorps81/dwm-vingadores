@@ -12,4 +12,13 @@ body {
     text-align: center;
 }
 
+/* Classe Container */
+
+.container {
+    min-width: 400px;
+    max-width: 1200px;
+    background-color: gray;
+    margin: 0 auto;
+}
+
 
